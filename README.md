@@ -17,4 +17,7 @@ This repo will follow the Daniel Bourke's Youtube course on pytorch.
    - Learn about data, parameters, hyperparameters
    - Learn about test sets, train sets, etc
    - Learn about training a model through loss function, optimizer, and training loops.
+   - Learn about testing loops and making predcitions with the learned params. 
+   - Learn about saving and loading a model in Pytorch 
+   - Learn about device agnostic code
 
