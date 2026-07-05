@@ -21,3 +21,12 @@ This repo will follow the Daniel Bourke's Youtube course on pytorch.
    - Learn about saving and loading a model in Pytorch 
    - Learn about device agnostic code
 
+3. The third part contains NN classification problems 
+   - Introduction to classification problem
+   - Creating a Binary classification problem  
+   - Differnce between classification and regressin problems 
+   - About logits, prediction probabilites
+   - Concept about Non-linearity and why its needed
+   - About non-linear activation functions
+   - Making a choice with the model
+
