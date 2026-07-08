@@ -30,3 +30,9 @@ This repo will follow the Daniel Bourke's Youtube course on pytorch.
    - About non-linear activation functions
    - Making a choice with the model
 
+4. The fourth part contains basic Computer Vision problem 
+   - Introduction to Computer vision
+   - Convulational Neural Networks9(CNNs) and why they are used in computer vision 
+   - Recent Vision Transformers and their advantage over CNNs
+   - Builiding a CNN
+
